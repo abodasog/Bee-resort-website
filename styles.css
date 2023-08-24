@@ -1,16 +1,21 @@
 .bobby{
-    background-color: #a362a3;
-    font-size: 80%;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: hsl(337, 95%, 40%);
+    font-size: 70%;
+    font-family:  Tahoma, sans-serif;
 }
 h1{
     font-size: 35px;
 }
+h2{
+    color: bisque;
+    font-size: 35px;
+    font-family: 'Times New Roman', Times, serif;
+}
 body{
-    background-color: hsl(272, 19%, 48%);
-    font-size: 30px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', sans-serif;
-    color: antiquewhite;
+    background-color: hwb(194 35% 20%);
+    font-size: 25px;
+    font-family: 'Lucida Sans Unicode', sans-serif;
+    color: rgb(238, 245, 242);
 }
 ul{
     font-size: 30px;
@@ -18,6 +23,10 @@ ul{
     column-gap: normal;
 }
 li{
-    font-size: 30px;
+    font-size: 40px;
     color: rgb(255, 250, 240);
+}
+.class{
+    color: black;
+    font-size: 40px;
 }
