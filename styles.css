@@ -1,0 +1,23 @@
+.bobby{
+    background-color: #a362a3;
+    font-size: 80%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1{
+    font-size: 35px;
+}
+body{
+    background-color: hsl(272, 19%, 48%);
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', sans-serif;
+    color: antiquewhite;
+}
+ul{
+    font-size: 30px;
+    color: azure;
+    column-gap: normal;
+}
+li{
+    font-size: 30px;
+    color: rgb(255, 250, 240);
+}
