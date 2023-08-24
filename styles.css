@@ -21,3 +21,6 @@ li{
     font-size: 30px;
     color: rgb(255, 250, 240);
 }
+a{
+    line-height: 30px;
+}
