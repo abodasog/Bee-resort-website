@@ -1,5 +1,5 @@
 .bobby{
-    background-color: #a362a3;
+    background-color: chartreuse;
     font-size: 80%;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -7,10 +7,11 @@ h1{
     font-size: 35px;
 }
 body{
-    background-color: hsl(272, 19%, 48%);
+    background-color: indianred;
+    font-weight: 700;
     font-size: 30px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', sans-serif;
-    color: antiquewhite;
+    color: rgb(182, 192, 122);
 }
 ul{
     font-size: 30px;
@@ -19,5 +20,11 @@ ul{
 }
 li{
     font-size: 30px;
-    color: rgb(255, 250, 240);
+    color: rgb(12, 12, 11);
+}
+img{
+    image-resolution: 20px;
+    image-rendering: optimizeQuality;
+    position: relative;
+    height: fit-content;
 }
