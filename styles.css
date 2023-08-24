@@ -1,20 +1,25 @@
 .bobby{
-    background-color: #a362a3;
+    background-color: white;
+    color: darkorange;
     font-size: 80%;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: algerian;
+    background-origin: padding-box 10px;
+    text-align: center;
 }
 h1{
     font-size: 35px;
 }
 body{
-    background-color: hsl(272, 19%, 48%);
+    background-color: mintcream;
     font-size: 30px;
+    text-shadow: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', sans-serif;
-    color: antiquewhite;
+    color: rgb(66, 48, 48);
+    
 }
 ul{
     font-size: 30px;
-    color: azure;
+    color: crimson;
     column-gap: normal;
 }
 li{
